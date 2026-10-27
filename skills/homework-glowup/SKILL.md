@@ -7,7 +7,7 @@ description: Review and prepare assignment deliverables, checking content, submi
 
 Identify the assignment, questions and submission requirements, and the user's preferred name. Do not ask again for information already established in the conversation or document. Do not infer the user's name from OS accounts or Git configuration. If information is missing, continue independent work such as reviewing the content.
 
-For each assignment creation, resumed preparation or review, copy [the check template](templates/assignment-checklist.md) to a working location outside the submission package. Record each applicable requirement and deliverable, its status and concise evidence. Use `該当なし` only with a confirmed reason; missing information or an unperformed check is `未確認`. Duplicate rows as needed for individual files and assignment-specific requirements. Mark the review complete only when all applicable checks are confirmed and every non-applicable item has a reason. Report failures and unconfirmed items while continuing independent work. A completed checklist records the evidence available; it does not itself prove correctness.
+For each assignment creation, resumed preparation or review, copy [the check template](templates/assignment-checklist.md) to a working location outside the submission package. Record each applicable requirement and deliverable, its status and concise evidence. Use `Not applicable` only with a confirmed reason; missing information or an unperformed check is `Unverified`. Duplicate rows as needed for individual files and assignment-specific requirements. Mark the review complete only when all applicable checks are confirmed and every non-applicable item has a reason. Report failures and unconfirmed items while continuing independent work. A completed checklist records the evidence available; it does not itself prove correctness.
 
 ## Submission filenames and private user rules
 
@@ -27,7 +27,7 @@ For each assignment creation, resumed preparation or review, copy [the check tem
 ## Visual formatting and captions
 
 - Use pure white (`#FFF`) backgrounds and pure black (`#000`) text by default, with neutral gray for table shading and other neutral elements. Avoid chromatic colors; if an accent is needed, use only pure red (`#F00`). Red may identify filled-in answers in a table. Follow explicit assignment or user formatting requirements, and preserve source images when recoloring would alter required instructional content.
-- For long reports, especially experiment reports, check that each applicable table and figure has a suitably numbered caption such as `表x.x` or `図x.x`, placed above the corresponding item and centered. Follow the assignment's numbering convention when specified. Verify caption placement and alignment in the rendered document; do not impose an exhaustive caption audit on lightweight assignments.
+- For long reports, especially experiment reports, check that each applicable table and figure has a suitably numbered caption such as `Table x.x` or `Figure x.x`, placed above the corresponding item and centered. Follow the assignment's numbering and caption-language requirements when specified. Verify caption placement and alignment in the rendered document; do not impose an exhaustive caption audit on lightweight assignments.
 - Align ordinary text and headings to the left by default. Follow explicit assignment or user requirements for other alignments.
 
 ## Review and correct content

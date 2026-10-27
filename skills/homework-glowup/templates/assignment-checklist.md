@@ -1,60 +1,60 @@
-# 課題チェックシート
+# Assignment checklist
 
-このファイルは作業用の記録として使い、提出物とは別に保存する。スキル本文と課題の指示を基準に、対象に応じて行を追加・複製する。個人情報や非公開ルールの内容は、記録に必要な最小限にとどめる。
+Use this file as a working record, stored separately from submission files. Add or duplicate rows to match the skill instructions and assignment requirements. Record only the minimum personal information or private rule details needed for the checks.
 
-## 記入方法
+## How to complete this checklist
 
-- 各行の状態は `確認済み`、`要修正`、`未確認`、`該当なし` のいずれかにする。初期状態は `未確認`。
-- `確認済み` には、実際に行った確認方法と結果を簡潔に記載する。抽出、計算、コード実行、描画の目視確認などを区別し、実施していない確認を済みとしない。
-- `該当なし` は適用されないことを確認できた場合に限り、その理由を記載する。情報不足、未実施、確認できない項目は `未確認` とし、理由と次に必要なことを記載する。
-- 複数の提出物がある場合は、必要な行をファイルごとに複製する。課題固有の要件は「課題固有の要件」に一件ずつ追加する。軽量な課題には、スキルで求めていない網羅的なキャプション点検を課さない。
-- 適用される全項目が `確認済み` で、すべての `該当なし` に理由がある場合のみ、全体を `確認完了` とする。それ以外は `未完了` とし、未確認・要修正の内容を報告する。チェックシートへの記入自体は正しさの証明にはならない。
+- Set each row to `Verified`, `Needs correction`, `Unverified` or `Not applicable`. The initial status is `Unverified`.
+- For `Verified`, briefly record the method actually used and its result. Distinguish extraction, calculation, code execution and visual inspection of rendered output. Mark only checks that were actually performed as verified.
+- Use `Not applicable` only when non-applicability is confirmed, and record the reason. Missing information, unperformed checks and checks that cannot be completed remain `Unverified`; record why and what is needed next.
+- For multiple deliverables, duplicate relevant rows for each file. Add assignment-specific requirements individually under "Assignment-specific requirements." Keep caption checks proportionate to lightweight assignments, as specified by the skill.
+- Set the overall result to `Review complete` only when every applicable item is `Verified` and every `Not applicable` item has a reason. Otherwise use `Incomplete` and report items needing correction or verification. Completing this record is not itself proof of correctness.
 
-## 対象と資料
+## Scope and materials
 
-- 課題・確認範囲：
-- 課題指示・指定テンプレートの参照先：
-- 命名指示と保存済みルールの確認先・確認できた範囲：
-- 提出対象ファイルと形式（一件ずつ）：
-- 作業用ファイル・確認用資料の保存先：
+- Assignment and review scope:
+- Assignment instructions and required template references:
+- Naming instructions and saved rules consulted, including the scope verified:
+- Submission files and actual formats, listed individually:
+- Location of working files and verification evidence:
 
-## 課題固有の要件
+## Assignment-specific requirements
 
-| 要件・対象ファイル | 状態 | 確認方法・結果、または未確認／該当なしの理由 |
+| Requirement and target file | Status | Method and result, or reason for Unverified / Not applicable |
 | --- | --- | --- |
-| 課題の設問・指定・必要な提出物を一件ずつ追加 | 未確認 |  |
+| Add each question, instruction and required deliverable individually | Unverified |  |
 
-## 共通チェック
+## Common checks
 
-| 項目・対象ファイル | 状態 | 確認方法・結果、または未確認／該当なしの理由 |
+| Check and target file | Status | Method and result, or reason for Unverified / Not applicable |
 | --- | --- | --- |
-| 最新の課題指示と保存済みの命名ルールを読み、競合・明示的な上書き指示を確認 | 未確認 |  |
-| 指定された提出物が揃い、各ファイル名・番号・表記・拡張子・実際の形式が指示に一致 | 未確認 |  |
-| 必要な個人情報は確認済みで適用範囲に合う値を使用し、不要な接頭辞・日付等を追加していない | 未確認 |  |
-| 設問への回答、条件、文字数、単位、指定形式に不足がない | 未確認 |  |
-| 計算結果・符号・単位・丸めを独立に確認し、実行可能なコードは代表例と境界を確認 | 未確認 |  |
-| 事実・引用・参照先を検証し、未確認の引用や架空の実験結果・経験を含めていない | 未確認 |  |
-| 図・表・本文の整合、相互参照、誤字、論理を確認し、不確かな修正は根拠とともに扱った | 未確認 |  |
-| ユーザーの取り組み方・文体と指定テンプレートを保持し、必要な開示・引用を維持 | 未確認 |  |
-| 任意のAI利用申告・情報収集日・参考リンクを加えておらず、求められた場合は指示に従う | 未確認 |  |
-| AI利用欄がある場合、確認できた実際の利用を正確に記載し、未確認の利用を推測していない | 未確認 |  |
-| 白背景・黒文字・灰色の網掛け、必要な赤の強調を基本とし、明示指定や必要な元画像の色を尊重 | 未確認 |  |
-| 通常の文章・見出しの左揃えと、指示された別の配置を確認 | 未確認 |  |
-| 長いレポートの表・図の番号付きキャプションがそれぞれ対象の上で中央揃えになっていることを描画後に確認 | 未確認 |  |
-| 各形式に適した方法で内容と表示を確認し、本文抽出と図・数式・レイアウトの目視確認を区別 | 未確認 |  |
-| 元ファイルを保持し、必要な調整用コピーを別に用意 | 未確認 |  |
-| 対応する個人の作成者・共同作成者・最終更新者を保存後に再確認し、AI名が混在せず、確認済みの人間の情報を保持 | 未確認 |  |
-| 対応する形式の作成者欄を確認し、アプリケーション情報や本文・コメント・履歴・署名を区別 | 未確認 |  |
-| 署名済みファイルを編集する場合、署名への影響を説明し、可能なら編集可能な元ファイルから出力 | 未確認 |  |
-| 文書内の最終更新日時とファイルの更新日時を、最終保存後に対応する精度で読み戻して照合 | 未確認 |  |
-| 初回作成時のみ文書内の作成日時を最終更新のおよそ30分前に設定し、厳密な30分差から少しずらした値を使用。既存文書は値を保持し、欠損や初回作成の不明点を推測しない | 未確認 |  |
-| ファイルシステムの作成日時は明示依頼がなければ変更せず、非対応形式に独自の日時・作成者欄を追加していない | 未確認 |  |
-| 最終ファイルを開き直して内容・対応するメタデータを確認し、必要な形式では描画後のページ・図・表・数式を確認 | 未確認 |  |
-| 提出用の一覧・パッケージに作業用チェックシートや非公開ルールを含めず、提出・公開の許可範囲を確認 | 未確認 |  |
+| Read current assignment instructions and saved filename rules; resolve conflicts and explicit overrides | Unverified |  |
+| Confirm that all required deliverables are present and filenames, numbering, spelling, extensions and actual formats match the instructions | Unverified |  |
+| Use confirmed identity values appropriate to the task, with no unnecessary personal prefixes, dates or other additions | Unverified |  |
+| Check answers, assignment conditions, length limits, units and required formats for omissions | Unverified |  |
+| Independently check calculations, signs, units and rounding; run representative and boundary inputs for executable code | Unverified |  |
+| Verify facts, quotations and references; include only supported citations, experimental results and personal experiences | Unverified |  |
+| Check consistency among figures, tables and text, cross-references, typos and reasoning; support uncertain corrections with evidence | Unverified |  |
+| Preserve the user's approach, voice and required template, including required disclosures and citations | Unverified |  |
+| Include optional AI-use disclosures, research-access dates and reference links only when required or explicitly requested | Unverified |  |
+| Where an AI-use field is required, describe confirmed actual use accurately and distinguish unknown use from non-use | Unverified |  |
+| Use white backgrounds, black text, gray shading and red accents where needed; honor explicit formatting requirements and necessary source-image colors | Unverified |  |
+| Check default left alignment of ordinary text and headings, and any explicitly required alternatives | Unverified |  |
+| In long reports, inspect rendered output to confirm numbered table and figure captions are above and centered over their respective items | Unverified |  |
+| Use format-appropriate content and display checks; distinguish text extraction from visual inspection of figures, equations and layout | Unverified |  |
+| Preserve original files and keep any adjusted copies separate | Unverified |  |
+| Reopen saved files and check applicable personal author, coauthor and last-modifier fields: preserve confirmed human values and exclude AI agent names, including mixed entries | Unverified |  |
+| Check author fields supported by the format, distinguishing application metadata from names in the body, comments, history and signatures | Unverified |  |
+| When editing signed files, explain the effect on signatures and export from an editable original where possible | Unverified |  |
+| Read back internal and filesystem modification times after final saving and compare them at the supported precision | Unverified |  |
+| Only on initial assignment creation, set internal creation roughly 30 minutes before modification with a small deviation from an exact interval; preserve existing values and report missing or uncertain creation information | Unverified |  |
+| Preserve filesystem creation time unless explicitly requested otherwise; use only author and timestamp fields supported by the format | Unverified |  |
+| Reopen final files to check content and applicable metadata; inspect rendered pages, figures, tables and equations where the format requires it | Unverified |  |
+| Exclude working checklists and private rules from submission inventories or packages; confirm the scope of upload or publication authorization | Unverified |  |
 
-## 全体結果
+## Overall result
 
-- 判定：未完了
-- 未確認・要修正の項目と理由：
-- 追加で必要な確認・次の作業：
-- 実際に変更・保持した日時やメタデータ、確認できなかった範囲：
+- Result: Incomplete
+- Unverified items or items needing correction, with reasons:
+- Further checks and next actions:
+- Timestamps or metadata actually changed or preserved, and remaining verification limits:

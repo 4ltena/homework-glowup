@@ -1,5 +1,7 @@
 # Homework Glowup
 
+[English](README.md) | [日本語](README.ja.md)
+
 An Agent Skill for preparing and reviewing assignment deliverables, with a checklist that records what was checked and the evidence available.
 
 ## What it does
