@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homework Glowup"
+  short_description: "課題の内容・命名・書式・作成者・日時を点検し、チェックシートに結果と根拠を記録する"
+  default_prompt: "$homework-glowup で課題指示と保存済み命名ルールに従い、内容・書式・作成者情報・日時を点検し、チェックシートへ結果と根拠、未確認事項を記録してください。"
